@@ -1,3 +1,7 @@
+# This project follows from the ReactJS tutorial on how to make a Tic Tac Toe game. The tutorial can be found 
+(here)[https://reactjs.org/tutorial/tutorial.html]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
