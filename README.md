@@ -1,4 +1,4 @@
-# This project follows from the ReactJS tutorial on how to make a Tic Tac Toe game. The tutorial can be found 
+This project follows from the ReactJS tutorial on how to make a Tic Tac Toe game. The tutorial can be found 
 (here)[https://reactjs.org/tutorial/tutorial.html]
 
 
